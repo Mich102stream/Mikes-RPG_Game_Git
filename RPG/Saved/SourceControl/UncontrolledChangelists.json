@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouched.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/UI/WB_AssassinatePrompt.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KR/BBFSH42IXUQUJ9LDU4L8KJ.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/72/CM27FFN8GMIHN53CSZE16Y.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6Z/8FQ0UPQ7XOLGAHRH09PYU6.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NR/PMKDJEQV5485DTVVM1GSG9.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Blueprints/BPC_Player_Stats.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/UI/WB_HUD.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/Characters/Mannequins/Animations/Manny/MM_Sprint.uasset",
+				"C:/Users/Michael/OneDrive/Documents/Unreal Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Assassinations.uasset"
+			]
+		}
+	]
+}
